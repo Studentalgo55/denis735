@@ -107,7 +107,9 @@ footer {
     display: block;
     opacity: 0.5;
     margin-bottom: 10px; 
-}body {
+}
+
+body {
     font-family: sans-serif;
 }
 
